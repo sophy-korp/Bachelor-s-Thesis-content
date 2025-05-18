@@ -1,0 +1,187 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global/D9CB741476305F454667E117D9E4F7BA/global/global/global}
+    \entry{Article_telnova}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b6930a2790ef9b813ee0547465b994ee}{%
+           family={Баженов},
+           familyi={Б\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           giveni={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=a6eef1992ffb8f70b14b1b99ead54972}{%
+           family={Тельнова},
+           familyi={Т\bibinitperiod},
+           given={А.\bibnamedelimi Ю.},
+           giveni={А\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \strng{namehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{fullhash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{fullhashraw}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{bibnamehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authorbibnamehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authornamehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authorfullhash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authorfullhashraw}{fac1da9e3410ae9e3206f281902b5899}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelprefix}{3.}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{95}
+      \field{journaltitle}{Журнал технической физики}
+      \field{langid}{russian}
+      \field{title}{Объединение выборок в анализе данных с интервальной неопределенностью}
+      \field{year}{2025}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{839\bibrangedash 846}
+      \range{pages}{8}
+      \field{volume}{95}
+      \range{volume}{1}
+    \endentry
+    \entry{Book_of_4}{book}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=b6930a2790ef9b813ee0547465b994ee}{%
+           family={Баженов},
+           familyi={Б\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           giveni={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=d1d34d29e67d13a5a713adcb2bf3a286}{%
+           family={Жилин},
+           familyi={Ж\bibinitperiod},
+           given={С.\bibnamedelimi И.},
+           giveni={С\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=63c43e583bfd97a18789c4c043c6d0c6}{%
+           family={Кумков},
+           familyi={К\bibinitperiod},
+           given={С.\bibnamedelimi И.},
+           giveni={С\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=e07c58977949c049221d9aab015952b3}{%
+           family={Шарый},
+           familyi={Ш\bibinitperiod},
+           given={С.\bibnamedelimi П.},
+           giveni={С\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва - Ижевск}%
+      }
+      \list{publisher}{1}{%
+        {Ижевский институт компьютерных исследований}%
+      }
+      \strng{authorbibnamehash}{5cde2830d5321a34f8ae978117e8db33}
+      \strng{authornamehash}{5cde2830d5321a34f8ae978117e8db33}
+      \strng{authorfullhash}{66facc66b38b8eadc738fdc5121a5fe9}
+      \strng{authorfullhashraw}{66facc66b38b8eadc738fdc5121a5fe9}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labelprefix}{3.}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-5-4344-1018-2}
+      \field{langid}{russian}
+      \field{pagetotal}{356}
+      \field{title}{Обработка и анализ данных с интервальной неопределённостью}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Article_telnova}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b6930a2790ef9b813ee0547465b994ee}{%
+           family={Баженов},
+           familyi={Б\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           giveni={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=a6eef1992ffb8f70b14b1b99ead54972}{%
+           family={Тельнова},
+           familyi={Т\bibinitperiod},
+           given={А.\bibnamedelimi Ю.},
+           giveni={А\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \strng{namehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{fullhash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{fullhashraw}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{bibnamehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authorbibnamehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authornamehash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authorfullhash}{fac1da9e3410ae9e3206f281902b5899}
+      \strng{authorfullhashraw}{fac1da9e3410ae9e3206f281902b5899}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{95}
+      \field{journaltitle}{Журнал технической физики}
+      \field{langid}{russian}
+      \field{title}{Объединение выборок в анализе данных с интервальной неопределенностью}
+      \field{year}{2025}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{839\bibrangedash 846}
+      \range{pages}{8}
+      \field{volume}{95}
+      \range{volume}{1}
+    \endentry
+    \entry{Book_of_4}{book}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=b6930a2790ef9b813ee0547465b994ee}{%
+           family={Баженов},
+           familyi={Б\bibinitperiod},
+           given={А.\bibnamedelimi Н.},
+           giveni={А\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+        {{hash=d1d34d29e67d13a5a713adcb2bf3a286}{%
+           family={Жилин},
+           familyi={Ж\bibinitperiod},
+           given={С.\bibnamedelimi И.},
+           giveni={С\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=63c43e583bfd97a18789c4c043c6d0c6}{%
+           family={Кумков},
+           familyi={К\bibinitperiod},
+           given={С.\bibnamedelimi И.},
+           giveni={С\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=e07c58977949c049221d9aab015952b3}{%
+           family={Шарый},
+           familyi={Ш\bibinitperiod},
+           given={С.\bibnamedelimi П.},
+           giveni={С\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва - Ижевск}%
+      }
+      \list{publisher}{1}{%
+        {Ижевский институт компьютерных исследований}%
+      }
+      \strng{authorbibnamehash}{5cde2830d5321a34f8ae978117e8db33}
+      \strng{authornamehash}{5cde2830d5321a34f8ae978117e8db33}
+      \strng{authorfullhash}{66facc66b38b8eadc738fdc5121a5fe9}
+      \strng{authorfullhashraw}{66facc66b38b8eadc738fdc5121a5fe9}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-5-4344-1018-2}
+      \field{langid}{russian}
+      \field{pagetotal}{356}
+      \field{title}{Обработка и анализ данных с интервальной неопределённостью}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
